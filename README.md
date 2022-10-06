@@ -65,7 +65,7 @@ I'am Jaber,
   <a href="https://github.com/JaberMa">
   <img height="160em" width="457em" src="https://github-readme-stats.vercel.app/api?username=JaberMa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
     <img height="160em" src="https://raw.githubusercontent.com/JaberMa/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-        <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaberMa&langs_count=8&theme=tokyonight&hide=javascript,html"/> -->
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaberMa&langs_count=8&theme=tokyonight&hide=javascript,html"/> 
 
 </div>
  <br />
