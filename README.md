@@ -15,11 +15,13 @@ I'am Jaber,
   <br />
  <br />
  
- <div align="center">
-  <a href="https://github.com/JaberMa">
-  <img height="160em" width="457em" src="https://github-readme-stats.vercel.app/api?username=JaberMa&hide=contribs&count_private=true&theme=dracula&show_icons=true"/>
-</div>
- <br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=JaberMa&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Badreddine Zatout's GitHub Stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaberMa&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="JaberMa's Most Used GitHub Languages" />
+</a>
 
 
 ![Snake animation](https://github.com/JaberMa/JaberMa/blob/output/github-contribution-grid-snake.svg)
