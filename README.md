@@ -19,7 +19,5 @@ I'am Jaber,
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=JaberMa&hide=contribs&count_private=true&theme=tokyonight&show_icons=true" alt="JaberMa's GitHub Stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaberMa)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Snake animation](https://github.com/JaberMa/JaberMa/blob/output/github-contribution-grid-snake.svg)
