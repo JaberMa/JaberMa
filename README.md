@@ -3,7 +3,7 @@
 I'am Jaber,
 - I’m currently working as a Software Engineer
 - Learning everything 
-- How to reach me: d.boudina2@gmail.com
+- How to reach me
 
 
   <a href = "mailto:d.boudina2@gmail.com">
